@@ -4,7 +4,7 @@ An interactive dashboard for exploring the fitted term structure of professional
 
 ## Live App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://inflation-expectations-ea.streamlit.app/)
+<p><a href="https://github.com/maxcd/euro-tsix">github.com/maxcd/euro-tsix</a></p>)
 
 ## Overview
 
