@@ -4,7 +4,7 @@ An interactive dashboard for exploring the fitted term structure of professional
 
 ## Live App
 
-<p><a href="https://maxcd.github.io/euro-tsix">"https://maxcd.github.io/euro-tsix</a></p>
+<p><a href="https://maxcd.github.io/euro-tsix">https://maxcd.github.io/euro-tsix</a></p>
 
 ## Overview
 
